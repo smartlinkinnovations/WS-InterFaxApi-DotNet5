@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "WS_InterFaxApi_DotNet5": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

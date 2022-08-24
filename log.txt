@@ -1,0 +1,54 @@
+Cron Job Started :2022-05-16 12:28:28 PM
+DateTime: May 16, 2022 12:28:28 PM
+*********************************************
+
+https://smartlink.smartmeds.ca/SmartInterFaxApi/InterFaxInbound/CheckAndSyncFaxes
+DateTime: May 16, 2022 12:28:28 PM
+*********************************************
+
+-----
+DateTime: May 16, 2022 12:28:28 PM
+*********************************************
+
+Cron Job Started :2022-05-16 12:28:58 PM
+DateTime: May 16, 2022 12:28:58 PM
+*********************************************
+
+https://smartlink.smartmeds.ca/SmartInterFaxApi/InterFaxInbound/CheckAndSyncFaxes
+DateTime: May 16, 2022 12:28:58 PM
+*********************************************
+
+-----
+DateTime: May 16, 2022 12:28:58 PM
+*********************************************
+
+Cron Job Started :2022-05-16 12:29:28 PM
+DateTime: May 16, 2022 12:29:28 PM
+*********************************************
+
+https://smartlink.smartmeds.ca/SmartInterFaxApi/InterFaxInbound/CheckAndSyncFaxes
+DateTime: May 16, 2022 12:29:28 PM
+*********************************************
+
+-----
+DateTime: May 16, 2022 12:29:28 PM
+*********************************************
+
+Cron Job Started :2022-05-16 12:30:39 PM
+DateTime: May 16, 2022 12:30:39 PM
+*********************************************
+
+https://smartlink.smartmeds.ca/SmartInterFaxApi/InterFaxInbound/CheckAndSyncFaxes
+DateTime: May 16, 2022 12:30:40 PM
+*********************************************
+
+Processed Fax: 414351052 | 9057992500 | 5/16/2022 4:22:29 PM
+Processed Fax: 414350496 | 9053361529 | 5/16/2022 4:19:33 PM
+
+
+
+
+Execution Time: 589 ms
+DateTime: May 16, 2022 12:30:40 PM
+*********************************************
+
